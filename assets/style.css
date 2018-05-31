@@ -222,7 +222,10 @@ body {
         width: 60%;
     }
     #logo {
-        width: 60%
+        width: 40%
+    }
+    nav {
+      margin-right: 20px;
     }
   }
 
